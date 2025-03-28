@@ -14,6 +14,11 @@ const NavBar = () => {
                         Pokemon
                     </Link>
                 </li>
+                <li>
+                    <Link to="/pokemon/new">
+                        New Pokemon
+                    </Link>
+                </li>
             </ul>
         </nav>
     );
